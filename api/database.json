@@ -1,0 +1,31 @@
+{
+  "clowns": [
+    {
+      "id": 1,
+      "name": "Mike"
+    },
+    {
+      "id": 2,
+      "name": "Leslie"
+    }
+  ],
+  "completedReservations": [
+    {
+      "reservationId": 1,
+      "clownId": 2,
+      "dateCompleted": 1641314817619,
+      "id": 1
+    }
+  ],
+  "reservations": [
+    {
+      "parentName": "Kimberly",
+      "childName": "Booke",
+      "numberOfChildren": "1",
+      "partyAddress": "1105 Andrea Ln",
+      "partyDate": "2022-02-02",
+      "reservationLength": "0",
+      "id": 1
+    }
+  ]
+}
